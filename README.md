@@ -1,6 +1,6 @@
 # Introduction
 
-Foobar is a Python library for dealing with word pluralization.
+This is the first repo
 
 ## Installation
 
